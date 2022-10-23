@@ -1,0 +1,128 @@
+.first-sec{
+    margin-top:50px;
+}
+.first-ul{
+ display: inline-flex;
+ padding-left:900px;
+}
+.first-li{
+    padding-left:100px;
+    list-style-type: none;
+}
+#strong-p{
+    font-size: 35px;
+    word-wrap: break-word;
+    width: 500px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#first-p{
+    font-size:17px;
+    width:500px;
+    word-wrap: break-word;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.first-div{
+    margin-top: 20px;
+    display: flex;
+    margin-left: 40px;
+}
+#form{
+    width: 300px;
+    height: 30px;
+}
+#button1{
+    width: 160px;
+    height: 36px;
+    background-color:rgb(58, 108, 247);
+    color:white;
+    border-color: rgb(58, 108, 247);
+}
+#first-img{
+    margin-left: 20px;
+    width: 500px;
+    margin-left: 40px;
+}
+.third-sec{
+    background-color: rgb(252, 243, 243);
+    height: 70vh;
+}
+#h1-third-sec{
+    font-size: 34px;
+    width: 500px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 40px;
+}
+.p-third-sec{
+    font-size:17px;
+    width:550px;
+    word-wrap: break-word;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 40px;
+}
+#p2-third-sec{
+    color: limegreen;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width:300px;
+    text-decoration-color: limegreen;
+    text-decoration-line: underline;
+    margin-bottom: 50px;  
+    margin-left: 40px;
+}
+#inner-div{
+    width: 500px;
+    background-color: white;
+    align-content: center;
+    justify-content: center;
+    padding: 30px;
+    margin-bottom: 30px;
+    margin-left: 40px;
+}
+#second-image{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
+#p-image{
+    width: 150px;
+    word-break:break-all;
+}
+#image-div{
+    display: flex;
+}
+.fourth-sec{
+    background-color: rgb(36, 21, 121);
+    height: 35vh;
+    margin-bottom: 20px;
+    display: flex;
+}
+#h1-fourth-sec{
+    width: 400px;
+    font-size: 30px;
+    color: white;
+    padding-top: 50px;
+    padding-left: 70px;
+}
+#p-fourth-sec{
+    padding-left: 70px;
+    color: white;
+    width: 450px;
+    font-size: 20px;
+}
+#label{
+    color: white;
+    font-size: 20px;
+    margin-left: 65px;
+    border-color: white;
+    align-items: center;
+}
+#fourth{
+    color: white;
+    font-size: 17px;
+    height: 4.2vh;
+    background-color:  rgb(58, 108, 247);
+    border-color: rgb(58, 108, 247);
+}
+#div-fourth{
+    width: 550px;
+}
